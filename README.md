@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Layze98
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, .NET, React and SQL
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me - private message
 
 <!---
